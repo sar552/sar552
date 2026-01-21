@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sardorbek
 
-🔥 Python Backend Developer | Django | DRF | PostgreSQL
+🔥 Python Backend Developer | Django | C++ | PostgreSQL | JAVA
 
 ---
 
