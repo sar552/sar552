@@ -1,13 +1,13 @@
 # Hi 👋 I'm Sardorbek
 
-🔥 Python Backend Developer | Django | C++ | PostgreSQL | JAVA
+🔥 Python Backend Developer | Django | C++ | PostgreSQL | JAVA | AI models
 
 ---
 
 ## 🚀 About Me
 - 💻 Backend developer (Python, Django, C++, Java, with Data Sructure and Algoritms)
 - 🧠 Clean Architecture & scalable systems
-- 🌍 Based in Uzbekistan
+- 🌍 To keep going world best Computer Science professor 
 - 📚 Always learning new technologies
 
 ---
